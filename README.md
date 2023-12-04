@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning cloud computing and python
 - Instagram (victor_mayanglambam)
 - Gmail(victormayanglambam15@gmail.com)
-- 
+
 
 <!---
 vic3141/vic3141 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
