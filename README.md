@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @vic3141
-- 👀 I’m interested in learning about object oriented programming languages, cloud computing and computer graphics progr
-- 🌱 I’m currently learning cloud computing 
-- 📫 How to reach me via Instagram (victor_mayanglambam)
+- 👀 I’m interested in learning about Coding and various CS stuff 
+- 🌱 I’m currently learning cloud computing and python
+- Instagram (victor_mayanglambam)
+- Gmail(victormayanglambam15@gmail.com)
 - 
 
 <!---
